@@ -5,7 +5,7 @@
 <a href="https://github.com/A-anand4866/Grocery-website/network/members"><img src="https://img.shields.io/github/forks/A-anand4866/Grocery-website" alt="Forks Badge"/></a>
 <a href="https://github.com/A-anand4866/Grocery-website/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/A-anand4866/Grocery-website?color=2b9348"></a>
 
-Grocery website build using HTML5, CSS3, and JavaScript. [![Netlify Status](https://api.netlify.com/api/v1/badges/df8942a1-f83b-40a2-ad3b-0df52eac66ed/deploy-status)](https://app.netlify.com/sites/groceryweb/deploys)
+Grocery website build using HTML5, CSS3, and JavaScript.
 
 <h2> Website: 
 <a href="https://groceryweb.netlify.app/" target="_blank">Visit Now🚀</a>
